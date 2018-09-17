@@ -4,7 +4,8 @@ Deblurring Super-Resolution Convolutional Neural Network
 # DBSRCNN-Keras
 
 This code is to process the blurred low-resolution images to get deblurred high-residual images.
-If this code is helpful for you, please cite this paper: "IMAGE DEBLURRING AND SUPER-RESOLUTION USING DEEP CONVOLUTIONAL NEURAL NETWORKS".
+If this code is helpful for you, please cite this paper: Image Deblurring And Super-Resolution Using Deep Convolutional Neural Networks <https://www.scss.tcd.ie/Rozenn.Dahyot/publications.html>
+F. Albluwi, V. Krylov and R. Dahyot, IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2018 <http://mlsp2018.conwiz.dk/home.htm> ), September 2018, Aalborg, Danemark.
 
 ## Dependencies
 
