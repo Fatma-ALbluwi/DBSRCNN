@@ -2,7 +2,7 @@
 # DBSRCNN
 Deblurring Super-Resolution Convolutional Neural Network.
 
-# DBSRCNN Ntwork 
+# DBSRCNN Network 
 
 ![dbsrcnn arct](https://user-images.githubusercontent.com/16929158/45629859-4bd2dc80-ba8f-11e8-82f4-409c28a32777.png)
 
