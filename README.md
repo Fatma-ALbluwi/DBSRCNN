@@ -35,5 +35,4 @@ F. Albluwi, V. Krylov and R. Dahyot, IEEE International Workshop on Machine Lear
 ## Qualitative Results
 
 ![img1](https://user-images.githubusercontent.com/16929158/46291571-c408ca00-c586-11e8-8c42-28ca32f50a6f.png)
-![img3](https://user-images.githubusercontent.com/16929158/46291832-5ad58680-c587-11e8-844d-176b92385f94.png)
 ![img2](https://user-images.githubusercontent.com/16929158/46291577-c66b2400-c586-11e8-961a-05f9819e317e.png)
