@@ -31,3 +31,8 @@ F. Albluwi, V. Krylov and R. Dahyot, IEEE International Workshop on Machine Lear
 2. use Keras with TensorFlow (tf) as a backend to train DBSRCNN model; Adam is used to optimizing the network for fast convergence: run DBSRCNN_train.py to produce DBSRCNN_blur model. 
 3. convert Keras model to .Mat for testing using Matconvnet: run load_save.py first, then run save_model.m to produce Matconvnet model. 
 4. run NB_SRCNN_Concat_blur_test.m in “test” folder to test the model; Set5 and Set14 are used as testing data.
+
+## Qualitative Results
+
+![img1](https://user-images.githubusercontent.com/16929158/46291571-c408ca00-c586-11e8-8c42-28ca32f50a6f.png)
+![img2](https://user-images.githubusercontent.com/16929158/46291577-c66b2400-c586-11e8-961a-05f9819e317e.png)
