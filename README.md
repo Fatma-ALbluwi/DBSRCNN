@@ -15,9 +15,11 @@ F. Albluwi, V. Krylov and R. Dahyot, IEEE International Workshop on Machine Lear
 
 ## Dependencies
 
-1. TensorFlow.
-2. Keras (This code is based on Keras-2).
-3. Matconvnet.  
+1. Python 3.6.5
+2. TensorFlow 1.1.0.
+3. Keras 2.2.2.
+4. Matlab.
+5. Matconvnet.  
 
 ## Generating data
 
